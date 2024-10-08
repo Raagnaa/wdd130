@@ -22,7 +22,8 @@ main img {
 }
 
 main {
-    width: max-content;
+    max-width: auto;
+    margin: auto;
 }
 
 p {
