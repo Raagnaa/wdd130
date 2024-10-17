@@ -1,0 +1,13 @@
+Colors
+
+Primary-Color: #7DC8DA
+Secondary-Color: #0C347A
+Accent1-Color: #003E3E
+Accent2-Color: #E0CE78
+
+Typography
+
+heading-font: Signika Medium 500
+text-font: Signika Regular 400
+
+https://coolors.co/e0ce78-003e3e-0c347a-7dc8da
