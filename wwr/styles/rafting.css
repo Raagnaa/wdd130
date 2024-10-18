@@ -10,7 +10,6 @@
 
 body {
     font-family: "Signika", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
     font-variation-settings:
@@ -45,11 +44,15 @@ header img {
     height: 150px;
 }
 
+header nav {
+    color: black;
+    display: flex;
+}
+
 nav {
     display: flex;
     gap: 20px;
-    color: var(--primary-color);
-    
+
 }
 
 nav img {
@@ -98,7 +101,7 @@ nav img {
 
 .hero-text img {
     position: relative;
-    width: 350px;
+    width: 30%;
     height: auto;
     border-radius: px;
 }
