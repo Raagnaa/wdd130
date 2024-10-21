@@ -109,7 +109,7 @@ main {
 }
 
 .multiple_pictures p {
-    position: flex;
+    display: flex;
     text-align: center;
     align-items: center;
     padding: 1rem;
@@ -140,7 +140,7 @@ main {
 }
 
 .multiple_pictures_contact p {
-    position: flex;
+    display: flex;
     text-align: center;
     align-items: center;
     padding: 1rem;
