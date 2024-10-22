@@ -102,7 +102,7 @@ main {
 
 .multiple_pictures img {
     width: 350px;
-    height: auto;
+    height: 230px;
     margin-right: 10px;
     align-items: center;
     justify-content: center;
